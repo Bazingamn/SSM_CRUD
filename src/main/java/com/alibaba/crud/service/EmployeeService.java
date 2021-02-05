@@ -31,8 +31,8 @@ public class EmployeeService {
      * @param empName
      * @return
      */
-    public boolean checkUser(String empName){
-        employeeMapper.
-        return false;
-    }
+//    public boolean checkUser(String empName){
+//        employeeMapper.
+//        return false;
+//    }
 }

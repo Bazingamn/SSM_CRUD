@@ -24,9 +24,9 @@ public class EmployeeController {
     @Autowired
     EmployeeService employeeService;
 
-    public Msg checkuser(String empName){
-
-    }
+//    public Msg checkuser(String empName){
+//
+//    }
 
     /**
      * 保存员工
